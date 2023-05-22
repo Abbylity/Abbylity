@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋, I'm Abby Oshunkoya</h1>
-<h3 align="center">Results-driven data analyst with 3+ years of experience and proficiency in data analysis and visualization tools such as SQL, PowerBI, and Tableau.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abbylity&label=Profile%20views&color=0e75b6&style=flat" alt="abbylity" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbylity" alt="abbylity" /></a> </p>
+## Hi, I’m Abby Oshunkoya! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+AI+Program+Manager!" /></a>
+</p>
 
 - 🔭 I’m currently working on [building BI-dashboards.](https://www.notion.so/Superstore-Dashboard-1d79e37365e44370bebd52b22c639f5f)
 
-- 🌱 I’m currently learning **tools that will help me transition fully to Data Science.**
+- 🌱 I’m currently learning tools that will help me transition fully to Data Science.
 
-- 👯 I’m looking to collaborate on **data analytics projects and network with individuals that will help me grow my career.l**
+- 👯 I’m looking to collaborate on data analytics projects and network with individuals that will help me grow my career.
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/Abiodun-Oshunkoya-eb0bf826b677475fa3b3d0acbeeb7358](https://www.notion.so/Abiodun-Oshunkoya-eb0bf826b677475fa3b3d0acbeeb7358)
 
 - 📫 How to reach me **abbyoshunkoya@yahoo.com**
 
-- ⚡ **I eat data for breakfast.**
+- ⚡ I eat data for breakfast.
+![]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +29,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbylity&show_icons=true&locale=en" alt="abbylity" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbylity&" alt="abbylity" /></p>
+
+### What I'm Currently Listening To
+
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=thiei724elvwcervp1qpymi9m&cover_image=true&theme=default&bar_color=18cd1b&bar_color_cover=false" 
+      alt="example"> 
+</p>
+   
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+
 
