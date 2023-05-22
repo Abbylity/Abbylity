@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **tools that will help me transition fully to Data Science.**
 
-- 👯 I’m looking to collaborate on **data analytics projects.**
+- 👯 I’m looking to collaborate on **data analytics projects and network with individuals that will help me grow my career.l**
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/Abiodun-Oshunkoya-eb0bf826b677475fa3b3d0acbeeb7358](https://www.notion.so/Abiodun-Oshunkoya-eb0bf826b677475fa3b3d0acbeeb7358)
 
 - 📫 How to reach me **abbyoshunkoya@yahoo.com**
 
-- ⚡ Fun fact **I eat data for breakfast.**
+- ⚡ **I eat data for breakfast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
