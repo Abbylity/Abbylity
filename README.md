@@ -14,7 +14,7 @@
 - 📫 How to reach me **abbyoshunkoya@yahoo.com**
 
 - ⚡ I eat data for breakfast.
-![]()
+![](https://github.com/Abbylity/Abbylity/blob/main/giphy.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
