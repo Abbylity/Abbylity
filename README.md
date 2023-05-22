@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on data analytics projects and network with individuals that will help me grow my career.
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/Abiodun-Oshunkoya-eb0bf826b677475fa3b3d0acbeeb7358](https://www.notion.so/Abiodun-Oshunkoya-eb0bf826b677475fa3b3d0acbeeb7358)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://bit.ly/A-B-Y-Portfolio)
 
 - 📫 How to reach me **abbyoshunkoya@yahoo.com**
 
